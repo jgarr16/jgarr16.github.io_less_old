@@ -11,7 +11,7 @@ My version is written in Python (this one in Python 2.7, but I'll likely upgrade
 
 <div class="grid">
     <div class="grid__item one-half">
-        <img src="/archived/assets/img/blog/HelloPython.png" alt="Hello! Python - book" />
+        <img src="../images/HelloPython.png" alt="Hello! Python - book" />
     </div>
 </div>
 
